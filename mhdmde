@@ -413,8 +413,6 @@ http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171027
 http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171028
 #EXTINF:-1 tvg-id="" tvg-name="CUL | TRU TV HD" tvg-logo="http://castlempire.site:8080/images/288f8ea8c591feedca96250ea870d6ea.png" group-title="*CULTURA*",CUL | TRU TV HD
 http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171029
-#EXTINF:-1 tvg-id="" tvg-name="Cultura 24 TV" tvg-logo="http://51.222.105.31:8080/images/ac9283070e3ff1b650a0036b98027c54.png" group-title="Peru Geo",Cultura 24 TV
-http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/99759
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | #VAMOS HD" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_3hipWfqxC1DU2gFw10scr83r9wULwZ0j0Og=s900-c-k-c0xffffffff-no-rj-mo" group-title="**DEPORTES HD**⚽",DEPORTES | #VAMOS HD
 http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169940
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | Adrenalina" tvg-logo="http://castlempire.site:8080/images/1acaab30036c256563b51a1d1a32be66.jpg" group-title="**DEPORTES HD**⚽",DEPORTES | Adrenalina
@@ -799,3 +797,345 @@ http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/170079
 http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/170074
 #EXTINF:-1 tvg-id="" tvg-name="INFANTILES | Cartoon Network (MX)" tvg-logo="http://castlempire.site:8080/images/4d552a4c5d8b4f1287d53bf93edb4b9c.png" group-title="*INFANTILES*",INFANTILES | Cartoon Network (MX)
 http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/170076
+#EXTINF:-1 tvg-id="" tvg-name="LA | Showtime Beyond HD" tvg-logo="http://logoiptv.dynns.com/iptv/Showtime.png" group-title="Pack ShowTime",LA | Showtime Beyond HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171753
+#EXTINF:-1 tvg-id="" tvg-name="LA | Showtime East HD" tvg-logo="http://logoiptv.dynns.com/iptv/Showtime.png" group-title="Pack ShowTime",LA | Showtime East HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171752
+#EXTINF:-1 tvg-id="" tvg-name="LA | Showtime HD" tvg-logo="http://logoiptv.dynns.com/iptv/Showtime.png" group-title="Pack ShowTime",LA | Showtime HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171751
+#EXTINF:-1 tvg-id="" tvg-name="LA | Showtime West HD" tvg-logo="http://logoiptv.dynns.com/iptv/Showtime.png" group-title="Pack ShowTime",LA | Showtime West HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171750
+#EXTINF:-1 tvg-id="" tvg-name="LA | Starz Black HD" tvg-logo="http://logoiptv.dynns.com/iptv/Starz.jpg" group-title="Pack StarZ",LA | Starz Black HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171798
+#EXTINF:-1 tvg-id="" tvg-name="LA | Starz Cinema HD" tvg-logo="http://logoiptv.dynns.com/iptv/Starz.jpg" group-title="Pack StarZ",LA | Starz Cinema HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171799
+#EXTINF:-1 tvg-id="" tvg-name="LA | Starz Comedy HD" tvg-logo="http://logoiptv.dynns.com/iptv/Starz.jpg" group-title="Pack StarZ",LA | Starz Comedy HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171797
+#EXTINF:-1 tvg-id="" tvg-name="LA | Starz East HD" tvg-logo="http://logoiptv.dynns.com/iptv/Starz.jpg" group-title="Pack StarZ",LA | Starz East HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171796
+#EXTINF:-1 tvg-id="" tvg-name="LA | Starz Edge HD" tvg-logo="http://logoiptv.dynns.com/iptv/Starz.jpg" group-title="Pack StarZ",LA | Starz Edge HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171795
+#EXTINF:-1 tvg-id="" tvg-name="LA | Starz Encore Action" tvg-logo="http://logoiptv.dynns.com/iptv/Starz.jpg" group-title="Pack StarZ",LA | Starz Encore Action
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171794
+#EXTINF:-1 tvg-id="" tvg-name="LA | Starz Encore Black HD" tvg-logo="http://logoiptv.dynns.com/iptv/Starz.jpg" group-title="Pack StarZ",LA | Starz Encore Black HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171793
+#EXTINF:-1 tvg-id="" tvg-name="LA | Starz Encore Classic HD" tvg-logo="http://logoiptv.dynns.com/iptv/Starz.jpg" group-title="Pack StarZ",LA | Starz Encore Classic HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171792
+#EXTINF:-1 tvg-id="" tvg-name="LA | Starz Encore Family HD" tvg-logo="http://logoiptv.dynns.com/iptv/Starz.jpg" group-title="Pack StarZ",LA | Starz Encore Family HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171790
+#EXTINF:-1 tvg-id="" tvg-name="LA | Starz Encore HD" tvg-logo="http://logoiptv.dynns.com/iptv/Starz.jpg" group-title="Pack StarZ",LA | Starz Encore HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171789
+#EXTINF:-1 tvg-id="" tvg-name="LA | Starz Encore Suspense HD" tvg-logo="http://logoiptv.dynns.com/iptv/Starz.jpg" group-title="Pack StarZ",LA | Starz Encore Suspense HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171788
+#EXTINF:-1 tvg-id="" tvg-name="LA | Starz Encore Western HD" tvg-logo="http://logoiptv.dynns.com/iptv/Starz.jpg" group-title="Pack StarZ",LA | Starz Encore Western HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171787
+#EXTINF:-1 tvg-id="" tvg-name="LA | Starz Family HD" tvg-logo="http://logoiptv.dynns.com/iptv/Starz.jpg" group-title="Pack StarZ",LA | Starz Family HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171791
+#EXTINF:-1 tvg-id="" tvg-name="LA | Starz HD" tvg-logo="http://logoiptv.dynns.com/iptv/Starz.jpg" group-title="Pack StarZ",LA | Starz HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171786
+#EXTINF:-1 tvg-id="" tvg-name="LA | Starz Kids & Family HD" tvg-logo="http://logoiptv.dynns.com/iptv/Starz.jpg" group-title="Pack StarZ",LA | Starz Kids & Family HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171785
+#EXTINF:-1 tvg-id="" tvg-name="LA | Starz West HD" tvg-logo="http://logoiptv.dynns.com/iptv/Starz.jpg" group-title="Pack StarZ",LA | Starz West HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171784
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | 90S" tvg-logo="http://castlempire.site:8080/images/ebd5b7f8dcb9e5ca9c04eb66d2f4327a.png" group-title="Musica",MUSICA | 90S
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169340
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | ALTERNATIVE" tvg-logo="http://castlempire.site:8080/images/ebd5b7f8dcb9e5ca9c04eb66d2f4327a.png" group-title="Musica",MUSICA | ALTERNATIVE
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169324
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | BRITS + HITS" tvg-logo="http://castlempire.site:8080/images/ebd5b7f8dcb9e5ca9c04eb66d2f4327a.png" group-title="Musica",MUSICA | BRITS + HITS
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169325
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | CONCERT CHANNEL HD" tvg-logo="http://castlempire.site:8080/images/2f94b7f6be605bbbbd1a4c538283f147.png" group-title="Musica",MUSICA | CONCERT CHANNEL HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169348
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | DANCE EDM" tvg-logo="http://castlempire.site:8080/images/ebd5b7f8dcb9e5ca9c04eb66d2f4327a.png" group-title="Musica",MUSICA | DANCE EDM
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169326
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | HIP HOP & R&B" tvg-logo="http://castlempire.site:8080/images/ebd5b7f8dcb9e5ca9c04eb66d2f4327a.png" group-title="Musica",MUSICA | HIP HOP & R&B
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169327
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | HIT LIST" tvg-logo="http://castlempire.site:8080/images/ebd5b7f8dcb9e5ca9c04eb66d2f4327a.png" group-title="Musica",MUSICA | HIT LIST
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169328
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | HTV Latino" tvg-logo="http://castlempire.site:8080/images/43cf4a075db1da506c3d473577a03be6.png" group-title="Musica",MUSICA | HTV Latino
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169344
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | KIDS ONLY" tvg-logo="http://castlempire.site:8080/images/ebd5b7f8dcb9e5ca9c04eb66d2f4327a.png" group-title="Musica",MUSICA | KIDS ONLY
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169343
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | METAL" tvg-logo="http://castlempire.site:8080/images/ebd5b7f8dcb9e5ca9c04eb66d2f4327a.png" group-title="Musica",MUSICA | METAL
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169329
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | MEXICANA" tvg-logo="http://castlempire.site:8080/images/ebd5b7f8dcb9e5ca9c04eb66d2f4327a.png" group-title="Musica",MUSICA | MEXICANA
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169330
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | MTV LATINO HD" tvg-logo="http://castlempire.site:8080/images/4f71b9bffecd6d11c4977e26801f7536.png" group-title="Musica",MUSICA | MTV LATINO HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169347
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | MTV LIVE" tvg-logo="http://castlempire.site:8080/images/01b1275952243588592e9cd2aa46d074.png" group-title="Musica",MUSICA | MTV LIVE
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169345
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | MTV LIVE HD" tvg-logo="http://castlempire.site:8080/images/551877f09774be84120e5048348c603f.png" group-title="Musica",MUSICA | MTV LIVE HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169321
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | MTV U" tvg-logo="http://castlempire.site:8080/images/be00e01c7bbe8ebb1a7af226a8455ddb.png" group-title="Musica",MUSICA | MTV U
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169346
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | MTV U HD" tvg-logo="https://i.imgur.com/xfIm1sc.png" group-title="Musica",MUSICA | MTV U HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169320
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | MUCH MUSIC" tvg-logo="http://castlempire.site:8080/images/aa091f5bb4051152424c8d84a6ef95b3.png" group-title="Musica",MUSICA | MUCH MUSIC
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169349
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | Music Channel" tvg-logo="http://castlempire.site:8080/images/ae48ad885e20dd3daf190502819fb720.png" group-title="Musica",MUSICA | Music Channel
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169331
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | POP & COUNTRY" tvg-logo="http://castlempire.site:8080/images/ebd5b7f8dcb9e5ca9c04eb66d2f4327a.png" group-title="Musica",MUSICA | POP & COUNTRY
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169332
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | POP HITS" tvg-logo="http://castlempire.site:8080/images/ebd5b7f8dcb9e5ca9c04eb66d2f4327a.png" group-title="Musica",MUSICA | POP HITS
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169333
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | POP LATINO" tvg-logo="http://castlempire.site:8080/images/ebd5b7f8dcb9e5ca9c04eb66d2f4327a.png" group-title="Musica",MUSICA | POP LATINO
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169334
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | RAP" tvg-logo="http://castlempire.site:8080/images/ebd5b7f8dcb9e5ca9c04eb66d2f4327a.png" group-title="Musica",MUSICA | RAP
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169335
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | ROCK" tvg-logo="http://castlempire.site:8080/images/ebd5b7f8dcb9e5ca9c04eb66d2f4327a.png" group-title="Musica",MUSICA | ROCK
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169336
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | TEEN BEATS" tvg-logo="http://castlempire.site:8080/images/ebd5b7f8dcb9e5ca9c04eb66d2f4327a.png" group-title="Musica",MUSICA | TEEN BEATS
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169337
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | THROWBACK JAMS" tvg-logo="http://castlempire.site:8080/images/ebd5b7f8dcb9e5ca9c04eb66d2f4327a.png" group-title="Musica",MUSICA | THROWBACK JAMS
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169341
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | TODAYS COUNTRY" tvg-logo="http://castlempire.site:8080/images/ebd5b7f8dcb9e5ca9c04eb66d2f4327a.png" group-title="Musica",MUSICA | TODAYS COUNTRY
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169338
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | TROPICALES" tvg-logo="http://castlempire.site:8080/images/ebd5b7f8dcb9e5ca9c04eb66d2f4327a.png" group-title="24/7 Music-Mix ",MUSICA | TROPICALES
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169339
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | VH1 CLASSIC SD" tvg-logo="http://castlempire.site:8080/images/cd287f1676d0c4cb688b7dbd3e31fd1b.png" group-title="Musica",MUSICA | VH1 CLASSIC SD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169322
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | VH1 HD" tvg-logo="http://castlempire.site:8080/images/81e2e3eda48d53e5ac35149ef01cb1ef.png" group-title="Musica",MUSICA | VH1 HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169323
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | VH1 Megahits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/LOGO_VH1_MEGA_HITS.svg/1280px-LOGO_VH1_MEGA_HITS.svg.png" group-title="Musica",MUSICA | VH1 Megahits
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/172323
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | Y2K" tvg-logo="http://castlempire.site:8080/images/ebd5b7f8dcb9e5ca9c04eb66d2f4327a.png" group-title="Musica",MUSICA | Y2K
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169342
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | ZONA LATINA" tvg-logo="http://castlempire.site:8080/images/2299f15cf063851bc36e189e8a7136d3.png" group-title="Musica",MUSICA | ZONA LATINA
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169350
+#EXTINF:-1 tvg-id="" tvg-name="MX |  Az Clic" tvg-logo="http://castlempire.site:8080/images/2b05d9456c9fd1d32232c482aa557133.png" group-title="Mexico",MX |  Az Clic
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171064
+#EXTINF:-1 tvg-id="" tvg-name="MX | A+" tvg-logo="http://castlempire.site:8080/images/a03fad53220d10a62ec6dca20167522b.png" group-title="Mexico",MX | A+
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171059
+#EXTINF:-1 tvg-id="" tvg-name="MX | ADN 40" tvg-logo="https://lh3.googleusercontent.com/GToMwYPgp71X-kkdyydnlHr9IVP1ls4lNC8lTPiNU6mzFvd_U3S7Bp7zEKdJH4PQ7rY" group-title="Mexico",MX | ADN 40
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171056
+#EXTINF:-1 tvg-id="" tvg-name="MX | Az Corazon" tvg-logo="http://castlempire.site:8080/images/11289bf56282a6aca0841cde5b3fb406.png" group-title="Mexico",MX | Az Corazon
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171065
+#EXTINF:-1 tvg-id="" tvg-name="MX | Az Mundo" tvg-logo="http://castlempire.site:8080/images/9ec4a1a5033d3a230367aa6a02e89777.png" group-title="Mexico",MX | Az Mundo
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171063
+#EXTINF:-1 tvg-id="" tvg-name="MX | Azteca 7" tvg-logo="http://castlempire.site:8080/images/0a20281b5b8c900b4693b93c8ac1414e.png" group-title="Mexico",MX | Azteca 7
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171048
+#EXTINF:-1 tvg-id="" tvg-name="MX | Azteca 7 HD" tvg-logo="http://castlempire.site:8080/images/0a20281b5b8c900b4693b93c8ac1414e.png" group-title="Mexico",MX | Azteca 7 HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171066
+#EXTINF:-1 tvg-id="" tvg-name="MX | Azteca Uno" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROMXDK6npEyHLJ4C6bBGR7vMgt9RhZUmR_k5sq6bb84Q39GrIG&s" group-title="Mexico",MX | Azteca Uno
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171042
+#EXTINF:-1 tvg-id="" tvg-name="MX | Azteca Uno HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROMXDK6npEyHLJ4C6bBGR7vMgt9RhZUmR_k5sq6bb84Q39GrIG&s" group-title="Mexico",MX | Azteca Uno HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171067
+#EXTINF:-1 tvg-id="" tvg-name="MX | Canal 11" tvg-logo="http://castlempire.site:8080/images/8b796a840c247e0aec522e2dbbcb8c27.png" group-title="Mexico",MX | Canal 11
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171053
+#EXTINF:-1 tvg-id="" tvg-name="MX | Canal 22" tvg-logo="http://castlempire.site:8080/images/8ba99173a0baf913aaf93aca8bd2ef24.jpg" group-title="Mexico",MX | Canal 22
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171058
+#EXTINF:-1 tvg-id="" tvg-name="MX | Canal 4 Guadalajara" tvg-logo="http://castlempire.site:8080/images/2e4c4e1d4119e19cfb3102cebbd6b46a.jpg" group-title="Mexico",MX | Canal 4 Guadalajara
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171051
+#EXTINF:-1 tvg-id="" tvg-name="MX | Canal 4 Saltillo" tvg-logo="http://castlempire.site:8080/images/d9ff87ec489258d1bb917f46ed120bd6.png" group-title="Mexico",MX | Canal 4 Saltillo
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171070
+#EXTINF:-1 tvg-id="" tvg-name="MX | Canal 5" tvg-logo="http://castlempire.site:8080/images/0d6153fa47180b1f05502af544cc65fb.png" group-title="Mexico",MX | Canal 5
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171047
+#EXTINF:-1 tvg-id="" tvg-name="MX | Canal De Las Estrellas" tvg-logo="http://castlempire.site:8080/images/ad3cbe1f12299f6305ca583565e2077c.png" group-title="Mexico",MX | Canal De Las Estrellas
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171043
+#EXTINF:-1 tvg-id="" tvg-name="MX | Canal de las estrellas HD" tvg-logo="http://castlempire.site:8080/images/51e37f70779bae302f282ebeae5a346d.png" group-title="Mexico",MX | Canal de las estrellas HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171044
+#EXTINF:-1 tvg-id="" tvg-name="MX | Canal del Congreso" tvg-logo="http://castlempire.site:8080/images/1764b7906d6442d89129353b4f7d180a.jpg" group-title="Mexico",MX | Canal del Congreso
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171068
+#EXTINF:-1 tvg-id="" tvg-name="MX | El Nueve" tvg-logo="http://castlempire.site:8080/images/98db1dfd15771069d231f7bd36ce4b2c.png" group-title="Mexico",MX | El Nueve
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171050
+#EXTINF:-1 tvg-id="" tvg-name="MX | Foro Tv" tvg-logo="http://castlempire.site:8080/images/64a612526bce97f6b36de2a66e126cff.png" group-title="Mexico",MX | Foro Tv
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171046
+#EXTINF:-1 tvg-id="" tvg-name="MX | Gala TV" tvg-logo="http://castlempire.site:8080/images/5469168c183239aa4e0970a16154f703.png" group-title="Mexico",MX | Gala TV
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171049
+#EXTINF:-1 tvg-id="" tvg-name="MX | Imagen TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxZ7_vDZQHtGkurh8YeN50x68vIh0KvuC4i0W15HZ_8xPD34jv&s" group-title="Mexico",MX | Imagen TV
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171045
+#EXTINF:-1 tvg-id="" tvg-name="MX | Mexiquense" tvg-logo="http://castlempire.site:8080/images/2b641a291757a571a48700ce856d6f18.png" group-title="Mexico",MX | Mexiquense
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171054
+#EXTINF:-1 tvg-id="" tvg-name="MX | Milenio" tvg-logo="http://castlempire.site:8080/images/239294e6177fb33982ee63cd18fa927c.png" group-title="Mexico",MX | Milenio
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171055
+#EXTINF:-1 tvg-id="" tvg-name="MX | Multimedios" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022011/multimedios.png?itok=Gbsqnn0h" group-title="Mexico",MX | Multimedios
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171060
+#EXTINF:-1 tvg-id="" tvg-name="MX | Multimedios Saltillo" tvg-logo="http://castlempire.site:8080/images/666dcfe415d509c8248d81b88a897bb0.png" group-title="Mexico",MX | Multimedios Saltillo
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171061
+#EXTINF:-1 tvg-id="" tvg-name="MX | RCG 1 Saltillo" tvg-logo="http://castlempire.site:8080/images/d9ff87ec489258d1bb917f46ed120bd6.png" group-title="Mexico",MX | RCG 1 Saltillo
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171071
+#EXTINF:-1 tvg-id="" tvg-name="MX | RCG 2 Saltillo" tvg-logo="http://castlempire.site:8080/images/d9ff87ec489258d1bb917f46ed120bd6.png" group-title="Mexico",MX | RCG 2 Saltillo
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171072
+#EXTINF:-1 tvg-id="" tvg-name="MX | RCG 3 Saltillo" tvg-logo="http://castlempire.site:8080/images/d9ff87ec489258d1bb917f46ed120bd6.png" group-title="Mexico",MX | RCG 3 Saltillo
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171073
+#EXTINF:-1 tvg-id="" tvg-name="MX | Teleformula" tvg-logo="https://play-lh.googleusercontent.com/Ct-l99Obw0fRXaVWAZm2B_X0brCFMYyeEosE2K6sKFIby61bfarWIiGfcQ56N-epoFk" group-title="Mexico",MX | Teleformula
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171057
+#EXTINF:-1 tvg-id="" tvg-name="MX | Televisa Puebla" tvg-logo="http://castlempire.site:8080/images/3f7171449dd16141a40b0f7dcc605b66.png" group-title="Mexico",MX | Televisa Puebla
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171052
+#EXTINF:-1 tvg-id="" tvg-name="MX | Televisa Vallevision" tvg-logo="" group-title="Mexico",MX | Televisa Vallevision
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171069
+#EXTINF:-1 tvg-id="" tvg-name="MX | TVC" tvg-logo="http://castlempire.site:8080/images/2f8b463c1bd8d0a385bb0b6e473c7b57.png" group-title="Mexico",MX | TVC
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171062
+#EXTINF:-1 tvg-id="" tvg-name="Net TV" tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png" group-title="Argentina Geo",Net TV
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/55725
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA | ASAMBLEA NACIONAL TV" tvg-logo="http://castlempire.site:8080/images/3cbd2071644e89beb944611880fc841f.png" group-title="Panama",PANAMA | ASAMBLEA NACIONAL TV
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171191
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA | CABLE ONDA SPORTS" tvg-logo="http://castlempire.site:8080/images/4d00d79b6733c9cc066584a02ed03410.png" group-title="Panama",PANAMA | CABLE ONDA SPORTS
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171185
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA | CABLE ONDA SPORTS" tvg-logo="https://www.cableondasports.com/site/assets/files/others/2018/02/28/MEDGEN/1084/logo-cos-pantalla-web.226x90.jpg" group-title="Panama",PANAMA | CABLE ONDA SPORTS
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171189
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA | CABLE ONDA SPORTS FC" tvg-logo="http://castlempire.site:8080/images/c3ab883d514051b3f7987830d12abd2c.png" group-title="Panama",PANAMA | CABLE ONDA SPORTS FC
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171186
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA | CANAL 13 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e0/Telemetro_2010_logo.png/revision/latest/scale-to-width-down/250?cb=20181013042937&path-prefix=es" group-title="Panama",PANAMA | CANAL 13 HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171176
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA | CANAL 2 FHD" tvg-logo="http://castlempire.site:8080/images/c1cbd048810c2a5c863b7005b1b6d5e6.jpg" group-title="Panama",PANAMA | CANAL 2 FHD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171177
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA | CANAL 4" tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/9/9c/RPC2017.png/revision/latest?cb=20180717001524&path-prefix=es" group-title="Panama",PANAMA | CANAL 4
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171178
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA | CINEMA LATINO" tvg-logo="https://dl.dropbox.com/s/cgro91spw8qv4b2/LOGO-CINEMALATINO.jpg?dl=0" group-title="Panama",PANAMA | CINEMA LATINO
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171188
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA | COS FC" tvg-logo="http://castlempire.site:8080/images/c57f14e3e108f725e3735631d4e9b123.jpg" group-title="Panama",PANAMA | COS FC
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171190
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA | MAS TV 23" tvg-logo="http://castlempire.site:8080/images/36eff216f3f8e42f837257b2c967a704.jpg" group-title="Panama",PANAMA | MAS TV 23
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171179
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA | NEXT TV 21" tvg-logo="http://castlempire.site:8080/images/c621bb051f7af5b9c98a4294bd66e601.png" group-title="Panama",PANAMA | NEXT TV 21
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171187
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA | RPC 4 HD" tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/9/9c/RPC2017.png/revision/latest?cb=20180717001524&path-prefix=es" group-title="Panama",PANAMA | RPC 4 HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171180
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA | SER TV" tvg-logo="http://castlempire.site:8080/images/dd555a4ba7e83fb58bff5c80f553d18c.png" group-title="Panama",PANAMA | SER TV
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171181
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA | TELEMETRO 13 SD" tvg-logo="http://castlempire.site:8080/images/75a92ced82331d30f9680f3c082d95d9.png" group-title="Panama",PANAMA | TELEMETRO 13 SD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171182
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA | TV MAX 9" tvg-logo="http://castlempire.site:8080/images/aba73c9c951a8a85f651ad41d03a42d7.png" group-title="Panama",PANAMA | TV MAX 9
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171183
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA | TVN 2 SD" tvg-logo="http://castlempire.site:8080/images/c1cbd048810c2a5c863b7005b1b6d5e6.jpg" group-title="Panama",PANAMA | TVN 2 SD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171192
+#EXTINF:-1 tvg-id="" tvg-name="PANAMA | TVN HD" tvg-logo="http://castlempire.site:8080/images/c1cbd048810c2a5c863b7005b1b6d5e6.jpg" group-title="Panama",PANAMA | TVN HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171184
+#EXTINF:-1 tvg-id="" tvg-name="PR | Mega TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSKkqm4ENIgNL_6gvIVhB96LikPygjW9WoHP2SiMAne3C8Vgv96&usqp=CAU" group-title="Puerto Rico",PR | Mega TV
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171323
+#EXTINF:-1 tvg-id="" tvg-name="PR | Punto 2" tvg-logo="http://castlempire.site:8080/images/41ea0f7c7c9c42866e69c8489e0c77ce.jpg" group-title="Puerto Rico",PR | Punto 2
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171324
+#EXTINF:-1 tvg-id="" tvg-name="PR | Telemundo" tvg-logo="http://castlempire.site:8080/images/974c6ae6873c66736e7b335b3f0d259c.png" group-title="Puerto Rico",PR | Telemundo
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171327
+#EXTINF:-1 tvg-id="" tvg-name="PR | Univision" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQdZcDqwDdidPx_QexGmI_4Y-gv7s2E-QZ2_tM27jVnia8cBRPw&usqp=CAU" group-title="Puerto Rico",PR | Univision
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171329
+#EXTINF:-1 tvg-id="" tvg-name="PR | Wapa" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-1_746.png?rhtdsg4DpRQ_neH.HIZZK8RK1yQM_DJu&itok=akroq0c7" group-title="Puerto Rico",PR | Wapa
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171328
+#EXTINF:-1 tvg-id="" tvg-name="PR | WAPA 2" tvg-logo="http://castlempire.site:8080/images/2c60d1b93cc3e5d5981d16a166e19b9d.jpg" group-title="Puerto Rico",PR | WAPA 2
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171326
+#EXTINF:-1 tvg-id="" tvg-name="PR | Wapa America" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-1_746.png?rhtdsg4DpRQ_neH.HIZZK8RK1yQM_DJu&itok=akroq0c7" group-title="Puerto Rico",PR | Wapa America
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171322
+#EXTINF:-1 tvg-id="" tvg-name="PR | WIPR" tvg-logo="http://castlempire.site:8080/images/5da3bec60717f088832606bf5fcae0d5.jpg" group-title="Puerto Rico",PR | WIPR
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171325
+#EXTINF:-1 tvg-id="" tvg-name="Premium | A&E (Lat) HD" tvg-logo="http://castlempire.site:8080/images/e8faaf5ba3adf6336ba216780cbf1044.png" group-title="*ENTRETENIMIENTO*",Premium | A&E (Lat) HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169864
+#EXTINF:-1 tvg-id="" tvg-name="Premium | A&E (MX) HD" tvg-logo="http://castlempire.site:8080/images/e8faaf5ba3adf6336ba216780cbf1044.png" group-title="*ENTRETENIMIENTO*",Premium | A&E (MX) HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169863
+#EXTINF:-1 tvg-id="" tvg-name="Premium | Animal Planet (Lat) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/800px-2018_Animal_Planet_logo.svg.png" group-title="*ENTRETENIMIENTO*",Premium | Animal Planet (Lat) HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169836
+#EXTINF:-1 tvg-id="" tvg-name="Premium | Animal Planet (MX) HD (A)" tvg-logo="http://castlempire.site:8080/images/c8f271be92ec71dcdb326f8bd51f974b.png" group-title="*ENTRETENIMIENTO*",Premium | Animal Planet (MX) HD (A)
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169837
+#EXTINF:-1 tvg-id="" tvg-name="Premium | AXN (Lat) HD" tvg-logo="http://castlempire.site:8080/images/e568617b18f1dba7e8d8a9b7211e1f95.png" group-title="*ENTRETENIMIENTO*",Premium | AXN (Lat) HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169866
+#EXTINF:-1 tvg-id="" tvg-name="Premium | AXN (MX) HD (A)" tvg-logo="http://castlempire.site:8080/images/e568617b18f1dba7e8d8a9b7211e1f95.png" group-title="*ENTRETENIMIENTO*",Premium | AXN (MX) HD (A)
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169865
+#EXTINF:-1 tvg-id="" tvg-name="Premium | Comedy Central (Lat) HD" tvg-logo="http://castlempire.site:8080/images/2e6fd8611f4086fda707a6509e1efd1f.png" group-title="*ENTRETENIMIENTO*",Premium | Comedy Central (Lat) HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169871
+#EXTINF:-1 tvg-id="" tvg-name="Premium | Comedy Central (MX) HD (A)" tvg-logo="http://castlempire.site:8080/images/2e6fd8611f4086fda707a6509e1efd1f.png" group-title="*ENTRETENIMIENTO*",Premium | Comedy Central (MX) HD (A)
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169870
+#EXTINF:-1 tvg-id="" tvg-name="Premium | Discovery Channel (Lat) HD" tvg-logo="http://castlempire.site:8080/images/0475d08f5f5013ddb1d3a4e2c4258d52.png" group-title="*ENTRETENIMIENTO*",Premium | Discovery Channel (Lat) HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169839
+#EXTINF:-1 tvg-id="" tvg-name="Premium | Discovery Channel (Mx) HD" tvg-logo="http://castlempire.site:8080/images/0475d08f5f5013ddb1d3a4e2c4258d52.png" group-title="*ENTRETENIMIENTO*",Premium | Discovery Channel (Mx) HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169838
+#EXTINF:-1 tvg-id="" tvg-name="Premium | Discovery Civilization (Lat) HD" tvg-logo="http://castlempire.site:8080/images/c0b1566a5d6224bd48f560895d446274.png" group-title="*ENTRETENIMIENTO*",Premium | Discovery Civilization (Lat) HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169841
+#EXTINF:-1 tvg-id="" tvg-name="Premium | Discovery Civilization (MX) HD" tvg-logo="http://castlempire.site:8080/images/c0b1566a5d6224bd48f560895d446274.png" group-title="*ENTRETENIMIENTO*",Premium | Discovery Civilization (MX) HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169840
+#EXTINF:-1 tvg-id="" tvg-name="Premium | Discovery Familia" tvg-logo="" group-title="*ENTRETENIMIENTO*",Premium | Discovery Familia
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169885
+#EXTINF:-1 tvg-id="" tvg-name="Premium | Discovery H&H (Lat) HD" tvg-logo="http://castlempire.site:8080/images/4e03e3ebb339764d13a401016efb7594.png" group-title="*ENTRETENIMIENTO*",Premium | Discovery H&H (Lat) HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169843
+#EXTINF:-1 tvg-id="" tvg-name="Premium | Discovery H&H (MX) HD" tvg-logo="http://castlempire.site:8080/images/4e03e3ebb339764d13a401016efb7594.png" group-title="*ENTRETENIMIENTO*",Premium | Discovery H&H (MX) HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169842
+#EXTINF:-1 tvg-id="" tvg-name="Premium | Discovery ID (Lat) HD" tvg-logo="http://castlempire.site:8080/images/c99033f970a968286a3387c079426629.png" group-title="*ENTRETENIMIENTO*",Premium | Discovery ID (Lat) HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169845
+#EXTINF:-1 tvg-id="" tvg-name="Premium | Discovery ID (MX) HD" tvg-logo="http://castlempire.site:8080/images/c99033f970a968286a3387c079426629.png" group-title="*ENTRETENIMIENTO*",Premium | Discovery ID (MX) HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169844
+#EXTINF:-1 tvg-id="" tvg-name="Premium | Discovery Science (MX) HD" tvg-logo="http://castlempire.site:8080/images/2b1f497dfa3464e2358cba32fdd3a460.png" group-title="*ENTRETENIMIENTO*",Premium | Discovery Science (MX) HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169846
+#EXTINF:-1 tvg-id="" tvg-name="Premium | Discovery Theater HD" tvg-logo="http://castlempire.site:8080/images/b8af8a92127e02153f27c6d87b9e3a3f.png" group-title="*ENTRETENIMIENTO*",Premium | Discovery Theater HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169847
+#EXTINF:-1 tvg-id="" tvg-name="Premium | Discovery TLC (Lat) HD" tvg-logo="http://castlempire.site:8080/images/2d6d0cf4d9e51646d56bb96eae17dc78.png" group-title="*ENTRETENIMIENTO*",Premium | Discovery TLC (Lat) HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169852
+#EXTINF:-1 tvg-id="" tvg-name="Premium | Discovery TLC (MX) HD" tvg-logo="http://castlempire.site:8080/images/2d6d0cf4d9e51646d56bb96eae17dc78.png" group-title="*ENTRETENIMIENTO*",Premium | Discovery TLC (MX) HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169851
+#EXTINF:-1 tvg-id="" tvg-name="Premium | Discovery Turbo (Lat) HD" tvg-logo="http://castlempire.site:8080/images/e82cc4930a31ab72443f76c7f6f5b9dd.png" group-title="*ENTRETENIMIENTO*",Premium | Discovery Turbo (Lat) HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169854
+#EXTINF:-1 tvg-id="" tvg-name="Premium | Discovery Turbo (MX) HD" tvg-logo="http://castlempire.site:8080/images/e82cc4930a31ab72443f76c7f6f5b9dd.png" group-title="*ENTRETENIMIENTO*",Premium | Discovery Turbo (MX) HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169853
+#EXTINF:-1 tvg-id="" tvg-name="Premium | Discovery World" tvg-logo="http://castlempire.site:8080/images/c2f679bc6717a42b2a1f00967f8e8296.png" group-title="*ENTRETENIMIENTO*",Premium | Discovery World
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169848
+#EXTINF:-1 tvg-id="" tvg-name="Premium | Discovery World (Lat) HD" tvg-logo="http://castlempire.site:8080/images/c2f679bc6717a42b2a1f00967f8e8296.png" group-title="*ENTRETENIMIENTO*",Premium | Discovery World (Lat) HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169850
+#EXTINF:-1 tvg-id="" tvg-name="Premium | Discovery World (MX) HD" tvg-logo="http://castlempire.site:8080/images/c2f679bc6717a42b2a1f00967f8e8296.png" group-title="*ENTRETENIMIENTO*",Premium | Discovery World (MX) HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169849
+#EXTINF:-1 tvg-id="" tvg-name="Premium | E! Entertainment HD" tvg-logo="http://castlempire.site:8080/images/1828ac2961aa0c88b09c37589b1d1ec8.png" group-title="*ENTRETENIMIENTO*",Premium | E! Entertainment HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169867
+#EXTINF:-1 tvg-id="" tvg-name="Premium | El Gourmet (Lat) HD" tvg-logo="http://castlempire.site:8080/images/cfb0e28ba7e6318e78fdfd2d554c56b1.png" group-title="*ENTRETENIMIENTO*",Premium | El Gourmet (Lat) HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169878
+#EXTINF:-1 tvg-id="" tvg-name="Premium | El Gourmet (MX) HD" tvg-logo="http://castlempire.site:8080/images/cfb0e28ba7e6318e78fdfd2d554c56b1.png" group-title="*ENTRETENIMIENTO*",Premium | El Gourmet (MX) HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169877
+#EXTINF:-1 tvg-id="" tvg-name="Premium | Film & Arts HD" tvg-logo="http://castlempire.site:8080/images/50b5224ee240265a16c1c7d001cccf7c.png" group-title="*ENTRETENIMIENTO*",Premium | Film & Arts HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169875
+#EXTINF:-1 tvg-id="" tvg-name="Premium | FOX Life HD (A)" tvg-logo="http://castlempire.site:8080/images/cb99c02d745ead7df34cd9097812d36c.png" group-title="*ENTRETENIMIENTO*",Premium | FOX Life HD (A)
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169868
+#EXTINF:-1 tvg-id="" tvg-name="Premium | Glitz HD" tvg-logo="http://castlempire.site:8080/images/5207e53bee306137b4225ae1a5eda24a.png" group-title="*ENTRETENIMIENTO*",Premium | Glitz HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169872
+#EXTINF:-1 tvg-id="" tvg-name="Premium | H2 HD" tvg-logo="http://castlempire.site:8080/images/5677c2d37108e6dbf1266d4f4a61e301.PNG" group-title="*ENTRETENIMIENTO*",Premium | H2 HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169857
+#EXTINF:-1 tvg-id="" tvg-name="Premium | History Channel (Lat) HD" tvg-logo="http://castlempire.site:8080/images/ded5e060d8dab8d4317c3568834c94cf.png" group-title="*ENTRETENIMIENTO*",Premium | History Channel (Lat) HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169856
+#EXTINF:-1 tvg-id="" tvg-name="Premium | History Channel (MX) HD" tvg-logo="http://castlempire.site:8080/images/ded5e060d8dab8d4317c3568834c94cf.png" group-title="*ENTRETENIMIENTO*",Premium | History Channel (MX) HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169855
+#EXTINF:-1 tvg-id="" tvg-name="Premium | Hola TV HD" tvg-logo="http://castlempire.site:8080/images/093d5eafd930e37de9d994df15bbe3d6.png" group-title="*ENTRETENIMIENTO*",Premium | Hola TV HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169873
+#EXTINF:-1 tvg-id="" tvg-name="Premium | I SAT (Lat) HD" tvg-logo="http://castlempire.site:8080/images/f2f0f116fcb46560618e52c48c9ed325.png" group-title="*ENTRETENIMIENTO*",Premium | I SAT (Lat) HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169880
+#EXTINF:-1 tvg-id="" tvg-name="Premium | I SAT (MX) HD" tvg-logo="http://castlempire.site:8080/images/f2f0f116fcb46560618e52c48c9ed325.png" group-title="*ENTRETENIMIENTO*",Premium | I SAT (MX) HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169879
+#EXTINF:-1 tvg-id="" tvg-name="Premium | Lifetime HD" tvg-logo="http://castlempire.site:8080/images/0c4408d480b783ccb279ea84bedda77a.png" group-title="*ENTRETENIMIENTO*",Premium | Lifetime HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169869
+#EXTINF:-1 tvg-id="" tvg-name="Premium | MAS CHIC (Lat) HD" tvg-logo="http://castlempire.site:8080/images/f7e528850743269b51cd8bbbbf2b38e9.png" group-title="*ENTRETENIMIENTO*",Premium | MAS CHIC (Lat) HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169882
+#EXTINF:-1 tvg-id="" tvg-name="Premium | MAS CHIC (MX) HD" tvg-logo="http://castlempire.site:8080/images/f7e528850743269b51cd8bbbbf2b38e9.png" group-title="*ENTRETENIMIENTO*",Premium | MAS CHIC (MX) HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169881
+#EXTINF:-1 tvg-id="" tvg-name="Premium | Nat Geo (Lat) HD" tvg-logo="http://castlempire.site:8080/images/5b37526b0519f9f52a526e6d78525dd1.png" group-title="*ENTRETENIMIENTO*",Premium | Nat Geo (Lat) HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169858
+#EXTINF:-1 tvg-id="" tvg-name="Premium | Nat Geo (MX) HD" tvg-logo="http://castlempire.site:8080/images/5b37526b0519f9f52a526e6d78525dd1.png" group-title="*ENTRETENIMIENTO*",Premium | Nat Geo (MX) HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169859
+#EXTINF:-1 tvg-id="" tvg-name="Premium | Nat Geo Mundo HD" tvg-logo="http://castlempire.site:8080/images/5364cc71cd1653362b5dd4bf3cdd5d86.png" group-title="*ENTRETENIMIENTO*",Premium | Nat Geo Mundo HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169862
+#EXTINF:-1 tvg-id="" tvg-name="Premium | Nat Geo Wild (Lat) HD" tvg-logo="http://castlempire.site:8080/images/2a9aa59cdd17306f6a32aa390789254d.png" group-title="*ENTRETENIMIENTO*",Premium | Nat Geo Wild (Lat) HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169861
+#EXTINF:-1 tvg-id="" tvg-name="Premium | Nat Geo Wild (MX) HD" tvg-logo="http://castlempire.site:8080/images/2a9aa59cdd17306f6a32aa390789254d.png" group-title="*ENTRETENIMIENTO*",Premium | Nat Geo Wild (MX) HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169860
+#EXTINF:-1 tvg-id="" tvg-name="Premium | Pasiones HD" tvg-logo="http://castlempire.site:8080/images/40e685603a0d89585dd0325da7ee6ef4.png" group-title="*ENTRETENIMIENTO*",Premium | Pasiones HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169874
+#EXTINF:-1 tvg-id="" tvg-name="Premium | Sundance HD" tvg-logo="http://castlempire.site:8080/images/e0c5b9e900880ee502a08edf6cb5795a.png" group-title="*ENTRETENIMIENTO*",Premium | Sundance HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169876
+#EXTINF:-1 tvg-id="" tvg-name="Premium | TLNovelas" tvg-logo="https://www.pngkey.com/png/full/146-1463700_logo-tl-novelas.png" group-title="*ENTRETENIMIENTO*",Premium | TLNovelas
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/172181
+#EXTINF:-1 tvg-id="" tvg-name="Premium | TruTV HD" tvg-logo="https://vignette1.wikia.nocookie.net/logosfake/images/5/57/TruTV_Anglosaw_current_logo_%28Trendon_attacks%29.png/revision/latest?cb=20160112065824" group-title="*ENTRETENIMIENTO*",Premium | TruTV HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169886
+#EXTINF:-1 tvg-id="" tvg-name="Premium | Unicable HD" tvg-logo="http://castlempire.site:8080/images/433a0c2924b3cddbf7d8efbcdc167def.png" group-title="*ENTRETENIMIENTO*",Premium | Unicable HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169883
+#EXTINF:-1 tvg-id="" tvg-name="Premium | Wobi HD" tvg-logo="http://castlempire.site:8080/images/7374309283ef8c5fa1abf6d5c1cb8452.png" group-title="*ENTRETENIMIENTO*",Premium | Wobi HD
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169884
+#EXTINF:-1 tvg-id="" tvg-name="Religion | 3ABN" tvg-logo="http://anubistv.online:8000/images/44a3d36285e787f315c901e769232a63.jpg" group-title="Religiosos",Religion | 3ABN
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171311
+#EXTINF:-1 tvg-id="" tvg-name="Religion | ABN TV" tvg-logo="http://castlempire.site:8080/images/f917fd5fbab67d37de85e0dbacfbe01e.png" group-title="Religiosos",Religion | ABN TV
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171306
+#EXTINF:-1 tvg-id="" tvg-name="Religion | Aliento Vision" tvg-logo="https://static1.squarespace.com/static/5553563ae4b08689b8eeaf65/t/55535926e4b054270906d87c/1579609458625/" group-title="Religiosos",Religion | Aliento Vision
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171305
+#EXTINF:-1 tvg-id="" tvg-name="Religion | Cancao Nova" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/11/CANCAO-NOVA.jpg" group-title="Religiosos",Religion | Cancao Nova
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171304
+#EXTINF:-1 tvg-id="" tvg-name="Religion | Enlace" tvg-logo="http://castlempire.site:8080/images/1269a1325b298ac38dd9e5d1e894b4ed.png" group-title="Religiosos",Religion | Enlace
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171312
+#EXTINF:-1 tvg-id="" tvg-name="Religion | EWTN" tvg-logo="http://castlempire.site:8080/images/c50119f003875250afc072912102cc85.jpg" group-title="Religiosos",Religion | EWTN
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171308
+#EXTINF:-1 tvg-id="" tvg-name="Religion | Hossana Vision" tvg-logo="https://live.staticflickr.com/65535/49533350526_834c41a22b_t.jpg" group-title="Religiosos",Religion | Hossana Vision
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171309
+#EXTINF:-1 tvg-id="" tvg-name="Religion | La voz de Maria" tvg-logo="http://castlempire.site:8080/images/6fe90a299dd2eb65532cdac01efc9791.jpg" group-title="Religiosos",Religion | La voz de Maria
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171310
+#EXTINF:-1 tvg-id="" tvg-name="Religion | Solidaria TV" tvg-logo="http://castlempire.site:8080/images/77dd673e91331c638aad404588bed4b4.jpg" group-title="Religiosos",Religion | Solidaria TV
+http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171307

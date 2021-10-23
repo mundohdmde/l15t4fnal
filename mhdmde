@@ -889,7 +889,7 @@ http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169337
 http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169341
 #EXTINF:-1 tvg-id="" tvg-name="MUSICA | TODAYS COUNTRY" tvg-logo="http://castlempire.site:8080/images/ebd5b7f8dcb9e5ca9c04eb66d2f4327a.png" group-title="Musica",MUSICA | TODAYS COUNTRY
 http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169338
-#EXTINF:-1 tvg-id="" tvg-name="MUSICA | TROPICALES" tvg-logo="http://castlempire.site:8080/images/ebd5b7f8dcb9e5ca9c04eb66d2f4327a.png" group-title="24/7 Music-Mix ",MUSICA | TROPICALES
+#EXTINF:-1 tvg-id="" tvg-name="MUSICA | TROPICALES" tvg-logo="http://castlempire.site:8080/images/ebd5b7f8dcb9e5ca9c04eb66d2f4327a.png" group-title="Musica",MUSICA | TROPICALES
 http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169339
 #EXTINF:-1 tvg-id="" tvg-name="MUSICA | VH1 CLASSIC SD" tvg-logo="http://castlempire.site:8080/images/cd287f1676d0c4cb688b7dbd3e31fd1b.png" group-title="Musica",MUSICA | VH1 CLASSIC SD
 http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/169322
@@ -965,8 +965,6 @@ http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171052
 http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171069
 #EXTINF:-1 tvg-id="" tvg-name="MX | TVC" tvg-logo="http://castlempire.site:8080/images/2f8b463c1bd8d0a385bb0b6e473c7b57.png" group-title="Mexico",MX | TVC
 http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171062
-#EXTINF:-1 tvg-id="" tvg-name="Net TV" tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png" group-title="Argentina Geo",Net TV
-http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/55725
 #EXTINF:-1 tvg-id="" tvg-name="PANAMA | ASAMBLEA NACIONAL TV" tvg-logo="http://castlempire.site:8080/images/3cbd2071644e89beb944611880fc841f.png" group-title="Panama",PANAMA | ASAMBLEA NACIONAL TV
 http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/171191
 #EXTINF:-1 tvg-id="" tvg-name="PANAMA | CABLE ONDA SPORTS" tvg-logo="http://castlempire.site:8080/images/4d00d79b6733c9cc066584a02ed03410.png" group-title="Panama",PANAMA | CABLE ONDA SPORTS
@@ -2287,5 +2285,3 @@ http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/170666
 http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/170631
 #EXTINF:-1 tvg-id="" tvg-name="USA | ABC 6 Philadelphia HD" tvg-logo="https://themediaboxx.com/wp-content/uploads/2018/06/abc6wpvi_icon.png" group-title="USA Locals",USA | ABC 6 Philadelphia HD
 http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/170407
-#EXTINF:-1 tvg-id="" tvg-name="UTN TV" tvg-logo="https://lh3.googleusercontent.com/-F8g_zBh0gEA/XziF0Q478uI/AAAAAAAA4dw/ux01XzwGaM44evlijtAFeoZDNZX7k9OEgCK8BGAsYHg/s0/2020-08-15.png" group-title="Argentina Geo",UTN TV
-http://castlempire.site:8080/CarlosCoock/4N2Ye27EYm/55747
